@@ -1,0 +1,10 @@
+.buttons {
+  margin-left: 5px;
+}
+.buttons a{
+    text-decoration: none;
+    color: #b6b5b5;
+}
+.buttons a:hover{
+    color: #a19d9d;
+}
